@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "css-loader": "^7.1.5",
     "html-loader": "^5.1.0",
